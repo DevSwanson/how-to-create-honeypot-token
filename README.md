@@ -24,6 +24,7 @@ Types of Tutorials of Smart Contract Code
 
 -Full tutorial on how to create honeypot token (Switch On/Off Honeypot Mode + Undetectable Honeypot, Honeypot Scanner & Detector Proof): https://www.createyourowntoken.net/post/create-your-honeypot-token-switch-on-off-honeypot-mode-detector-proof
 
+-### Special Edition ### Full Tutorial on how to create normal meme token (Non-Honeypot, Normal Meme Token like Pepe Token): https://www.createyourowntoken.net/post/create-your-own-meme-token-like-pepe-normal-token-not-honeypot
 
 
 Types of Tokens Code:
@@ -36,7 +37,7 @@ Types of Tokens Code:
 
 -Honeypot (Switch On/Off Honeypot Mode + Undetectable Honeypot, Honeypot Scanner & Detector Proof) Token Code
 
-
+-Non Honeypot (Non-Honeypot, Safe to Trade and Invest, Normal Meme Token like Pepe Token) Token Code
 
 
 Learn How to Attract People to Buy Your Tokens: https://www.createyourowntoken.net/post/little-techniques-on-marketing-your-tokens 
