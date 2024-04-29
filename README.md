@@ -69,7 +69,7 @@ Learn How to Attract People to Buy Your Tokens: https://www.createyourowntoken.n
 Learn How Much Liquidity You Should Add & What To Do: https://www.createyourowntoken.net/post/little-techniques-on-marketing-your-tokens 
 
 
-###
+-###-
 🎉🎉Dev Swanson is now an Affiliate member of DxSale!
 
 What is DxSale?
@@ -95,7 +95,7 @@ Create Token on DxMint now: https://dx.app/dxmint?ref=cyotoken
 
 -Dev Swanson-
 
-###
+-###-
 
 
 Any queries?
