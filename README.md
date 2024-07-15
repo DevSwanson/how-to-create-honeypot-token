@@ -65,7 +65,7 @@ Types of Tokens Code:
 
 -Honeypot (Whitelist + Switch On/Off Honeypot Mode + Undetectable Honeypot) Token Code
 
--Honeypot (Upgraded V2 Blacklist + UUndetectable Honeypot, Honeypot Scanner & Detector Proof) Token Code
+-Honeypot (Upgraded V2 Blacklist + Undetectable Honeypot, Honeypot Scanner & Detector Proof) Token Code
 
 -Honeypot (Upgraded V2 Whitelist + Switch On/Off Honeypot Mode + Undetectable Honeypot) Token Code
 
